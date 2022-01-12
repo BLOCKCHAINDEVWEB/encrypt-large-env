@@ -1,0 +1,20 @@
+{
+  "name": "encrypt-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "envfile": "^6.17.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.2"
+  }
+}
